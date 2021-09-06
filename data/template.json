@@ -16,8 +16,8 @@
         "businessLanguage": ["german", "english"],
         "homepage": "https://www.triply.at/",
         "address": {
-                     "streetName": "",
-                     "streetNumber": "",
+                     "streetName": "Teststraße",
+                     "streetNumber": "2",
                      "city": "",
                      "country": "",
                      "state": "", 
