@@ -13,6 +13,7 @@
         "giBusinessActivity": ["mainly, partialy"],
         "size": ["small", "medium", "big"],
         "type": ["start-up", "regular","corporation"],
+        "businessLanguage": ["german", "english"],
         "homepage": "https://www.triply.at/",
         "address": {
                      "streetName": "",
@@ -21,7 +22,8 @@
                      "country": "",
                      "state": "", 
                      "postCode": ""   
-                     }
+                     },
+        "creationDate": "06.09.2021"
       },
       "geometry": {
         "type": "Point",
