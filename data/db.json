@@ -106,6 +106,7 @@
         {
       "type": "Feature",
       "properties": {
+        "id": 3,
         "name": "Triply GmbH",
         "businessDescription": "Triply ....",
         "businessActivity": ["software development", "data analysis", "data science","data engineering", "data aquisition"],
@@ -120,8 +121,8 @@
                      "streetName": "Teststraße",
                      "streetNumber": "2",
                      "city": "",
-                     "country": "",
-                     "state": "", 
+                     "state": "",
+                     "country": "", 
                      "postCode": ""   
                      },
         "creationDate": "06.09.2021"
