@@ -5,6 +5,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1,
         "name": "Triply GmbH",
         "businessDescription": "TTriply develops high-quality software solutions that help decision-makers understand existing mobility situations and provide meaningful, safe and sustainable mobility.",
         "businessActivity": ["software development", "data analysis", "data science","data engineering"],
