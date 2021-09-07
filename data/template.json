@@ -12,7 +12,7 @@
         "fieldOfInterest": ["mobility", "sustainability", "energy", "agriculture"],
         "giBusinessActivity": ["mainly, partialy"],
         "size": ["small", "medium", "big"],
-        "type": ["start-up", "regular","corporation"],
+        "type": ["start-up", "regular","corporation", "public organisation", "NGO"],
         "businessLanguage": ["german", "english"],
         "homepage": "https://www.triply.at/",
         "address": {
