@@ -8,7 +8,7 @@
         "name": "Triply GmbH",
         "businessDescription": "Triply ....",
         "businessActivity": ["software development", "data analysis", "data science","data engineering", "data aquisition"],
-        "fieldOfGi": ["remote sensing/EO", "GIS", "Geovisualization","Mapping", "GNSS", "AI (ML/DL)", "Statistic", "Spatial Analysis", "Navigation", "3D", "Simulation", "AR/VR", "BIM", "IoT", "Indoors GIS"], 
+        "fieldOfGi": ["remote sensing/EO", "GIS", "Geovisualization","Mapping", "GNSS", "AI (ML/DL)", "Statistic", "Spatial Analysis", "Navigation", "3D", "Simulation", "AR/VR", "BIM", "IoT", "Indoors GIS", "PPGIS/PGIS"], 
         "fieldOfInterest": ["mobility", "sustainability", "energy", "agriculture"],
         "giBusinessActivity": ["mainly, partialy"],
         "size": ["small", "medium", "big"],
