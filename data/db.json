@@ -1,1 +1,138 @@
-
+{
+  "type": "FeatureCollection",
+  "features": [
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Triply GmbH",
+        "businessDescription": "TTriply develops high-quality software solutions that help decision-makers understand existing mobility situations and provide meaningful, safe and sustainable mobility.",
+        "businessActivity": ["software development", "data analysis", "data science","data engineering"],
+        "fieldOfGi": ["GIS", "Geovisualization", "Spatial Analysis", "Navigation"], 
+        "fieldOfInterest": ["mobility", "sustainability"],
+        "giBusinessActivity": ["mainly"],
+        "size": ["small", "medium"],
+        "type": ["regular"],
+        "businessLanguage": ["german", "english"],
+        "homepage": "https://www.triply.at/",
+        "address": {
+                     "streetName": "Peter-Behrens-Platz",
+                     "streetNumber": "10 c/o factory300",
+                     "city": "Linz",
+                     "state": "Upper Austria",
+                     "country": "Austria", 
+                     "postCode": "4020"   
+                     },
+        "creationDate": "06.09.2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2965717,
+          48.3116039
+        ]
+      }
+    },
+    
+    
+        {
+      "type": "Feature",
+      "properties": {
+        "name": "Triply GmbH",
+        "businessDescription": "Triply ....",
+        "businessActivity": ["software development", "data analysis", "data science","data engineering", "data aquisition"],
+        "fieldOfGi": ["remote sensing/EO", "GIS", "Geovisualization", "GNSS", "AI (ML/DL)", "Statistic", "Spatial Analysis", "Navigation", "3D", "Simulation"], 
+        "fieldOfInterest": ["mobility", "sustainability", "energy", "agriculture"],
+        "giBusinessActivity": ["mainly, partialy"],
+        "size": ["small", "medium", "big"],
+        "type": ["start-up", "regular","corporation"],
+        "businessLanguage": ["german", "english"],
+        "homepage": "https://www.triply.at/",
+        "address": {
+                     "streetName": "Teststraße",
+                     "streetNumber": "2",
+                     "city": "",
+                     "country": "",
+                     "state": "", 
+                     "postCode": ""   
+                     },
+        "creationDate": "06.09.2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1953125,
+          50.28933925329178
+        ]
+      }
+    },
+    
+        {
+      "type": "Feature",
+      "properties": {
+        "name": "Triply GmbH",
+        "businessDescription": "Triply ....",
+        "businessActivity": ["software development", "data analysis", "data science","data engineering", "data aquisition"],
+        "fieldOfGi": ["remote sensing/EO", "GIS", "Geovisualization", "GNSS", "AI (ML/DL)", "Statistic", "Spatial Analysis", "Navigation", "3D", "Simulation"], 
+        "fieldOfInterest": ["mobility", "sustainability", "energy", "agriculture"],
+        "giBusinessActivity": ["mainly, partialy"],
+        "size": ["small", "medium", "big"],
+        "type": ["start-up", "regular","corporation"],
+        "businessLanguage": ["german", "english"],
+        "homepage": "https://www.triply.at/",
+        "address": {
+                     "streetName": "Teststraße",
+                     "streetNumber": "2",
+                     "city": "",
+                     "country": "",
+                     "state": "", 
+                     "postCode": ""   
+                     },
+        "creationDate": "06.09.2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1953125,
+          50.28933925329178
+        ]
+      }
+    },
+    
+    
+        {
+      "type": "Feature",
+      "properties": {
+        "name": "Triply GmbH",
+        "businessDescription": "Triply ....",
+        "businessActivity": ["software development", "data analysis", "data science","data engineering", "data aquisition"],
+        "fieldOfGi": ["remote sensing/EO", "GIS", "Geovisualization", "GNSS", "AI (ML/DL)", "Statistic", "Spatial Analysis", "Navigation", "3D", "Simulation"], 
+        "fieldOfInterest": ["mobility", "sustainability", "energy", "agriculture"],
+        "giBusinessActivity": ["mainly, partialy"],
+        "size": ["small", "medium", "big"],
+        "type": ["start-up", "regular","corporation"],
+        "businessLanguage": ["german", "english"],
+        "homepage": "https://www.triply.at/",
+        "address": {
+                     "streetName": "Teststraße",
+                     "streetNumber": "2",
+                     "city": "",
+                     "country": "",
+                     "state": "", 
+                     "postCode": ""   
+                     },
+        "creationDate": "06.09.2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1953125,
+          50.28933925329178
+        ]
+      }
+    }
+    
+    
+  ]
+}
+ 
