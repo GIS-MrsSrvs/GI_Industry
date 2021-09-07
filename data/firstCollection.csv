@@ -1,6 +1,9 @@
 Type, Name, Region/Stadt, URL,
 NGOs, Runter Tisch GIS E.V., München,https://rundertischgis.de/veranstaltungen/m%C3%BCnchner-gi-runde.html, 
 
+Industry, triply GmbH, Linz,,
+
+
 Industry, virtualcitysystems GmbH, Grafing,,
 Industry, con terra GmbH, Münster,,
 Industry, VertiGIS, München/Berlin/Bonn/Hamburg,, 
@@ -57,6 +60,36 @@ Industry, WIGeoGIS, München/Vienna,,
 Industry, Geocleadian GmbH, Landshut,,
 Industry, EFTAS, Münster,,
 Industry, CARTO, Madrid,,
+Industry, GeoMagis, St. Pölten,,
+Industry, Spatial Services GmbH, Salzburg,,
+Industry, Sentinel Hub GmbH, Graz,,
+Industry, Trafficon - Traffic Consultants GmbH, Salzburg,,
+Industry, Geotechnik, Geoinformatik & Service GmbH, Speyer,,
+Industry, mundialis GmbH & Co. KG, Bonn,,
+Industry, GRINTEC GmbH, Graz,, 
+Industry, PRISMA solutions Deutschland GmbH, Mödling,,
+Industry, axmann geoinformation GmbH, Wien,,
+Industry, MetGIS GmbH, Wien,,
+Industry, ikoone, Gleisdorf,,
+Industry, SpotOn Statistics GmbH, Wien,,
+Industry, Istari GmbH, Mannheim,,
+Industry, Vloor GmbH, Wien,,
+Industry, ubicube geospatial solutions KG, Graz,,
+Industry, AustriaTech GmbH, Wien,,
+Industry, HeiGIT GmbH, Heidelberg,,
+Research,RSA FG/iSpace, Salzburg,,
+Industry, RIEGL Laser Measurement Systems GmbH, Horn,,
+Industry, CYBERTEC PostgreSQL International GmbH, Wöllersdorf,,
+Industry, WhereGroup GmbH, Bonn/Berlin/Freiburg,,
+Research, DLR,,,
+Research, IDA Lab, Salzburg,,
+
+
+
+
+
+
+
 
 
 
@@ -74,3 +107,6 @@ Podcast
 Denmark
 GIS e.V. Partners
 big corporations (Maersk, consulting companies)
+InterGEO
+FOSSGIS
+
