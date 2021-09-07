@@ -39,31 +39,32 @@
         {
       "type": "Feature",
       "properties": {
-        "name": "Triply GmbH",
-        "businessDescription": "Triply ....",
+        "id": 2,
+        "name": "Nexiga GmbH",
+        "businessDescription": "State-of-the art technology and data are key drivers in today’s world of business, digitally, on and offline. LOCAL Intelligence helps you enhance your customer experience, thanks to the outstanding quality of its data and our services.",
         "businessActivity": ["software development", "data analysis/data science","data engineering", "data aquisition"],
-        "fieldOfGi": ["remote sensing/EO", "GIS", "Geovisualization", "GNSS", "AI (ML/DL)", "Statistic", "Spatial Analysis", "Navigation", "3D", "Simulation"], 
-        "fieldOfInterest": ["mobility", "sustainability", "energy", "agriculture"],
-        "giBusinessActivity": ["mainly, partialy"],
-        "size": ["small", "medium", "big"],
-        "type": ["start-up", "regular","corporation"],
+        "fieldOfGi": ["GIS", "Geovisualization", "GNSS", "AI (ML/DL)", "Statistic", "Spatial Analysis", "Navigation", "3D"], 
+        "fieldOfInterest": ["geomarketing", "location intelligence"],
+        "giBusinessActivity": ["mainly"],
+        "size": ["medium", "big"],
+        "type": ["regular"],
         "businessLanguage": ["german", "english"],
-        "homepage": "https://www.triply.at/",
+        "homepage": "https://www.nexiga.com/",
         "address": {
-                     "streetName": "Teststraße",
-                     "streetNumber": "2",
-                     "city": "",
-                     "country": "",
-                     "state": "", 
-                     "postCode": ""   
+                     "streetName": "Mozartstraße",
+                     "streetNumber": "4-10",
+                     "city": "Bonn",
+                     "state": "North-Rhine Westphalia",
+                     "country": "Germany", 
+                     "postCode": "53115"   
                      },
-        "creationDate": "06.09.2021"
+        "creationDate": "07.09.2021"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.1953125,
-          50.28933925329178
+         7.0899756,
+          50.7327469
         ]
       }
     },
@@ -71,6 +72,7 @@
         {
       "type": "Feature",
       "properties": {
+        "id": 3,
         "name": "Triply GmbH",
         "businessDescription": "Triply ....",
         "businessActivity": ["software development", "data analysis", "data science","data engineering", "data aquisition"],
@@ -85,8 +87,8 @@
                      "streetName": "Teststraße",
                      "streetNumber": "2",
                      "city": "",
-                     "country": "",
-                     "state": "", 
+                     "state": "",
+                     "country": "", 
                      "postCode": ""   
                      },
         "creationDate": "06.09.2021"
