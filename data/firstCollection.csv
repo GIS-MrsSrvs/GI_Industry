@@ -1,4 +1,4 @@
-Type, Name, Region/Stadt, URL
+Type, Name, Region/Stadt, URL,
 NGOs, Runter Tisch GIS E.V., München,https://rundertischgis.de/veranstaltungen/m%C3%BCnchner-gi-runde.html, 
 
 Industry, virtualcitysystems GmbH, Grafing,,
@@ -15,7 +15,18 @@ Industry, 52°North Initiative for Geospatial Open Source Software GmbH, Münste
 Industry, GAF AG, München,,
 Industry, AirborneHydroMapping GmbH, Innsbruck,,
 Industry, FATMAP, Berlin/...,,
-
+Industry, Geographica, Sevilla,,
+Industry, SmartMonkey, Barcelona,,
+Industry, CityMapper, London,,
+Industry, HERE, Berlin,,
+Industry, TomTom, Amsterdam,,
+Industry, Hexagon, Stockholm,,
+Industry, Mapillary, Malmö,,
+Industry, what3words, London,,
+Industry, GIS Cloud, Zagreb,,
+Industry, Avuxi, Barcelona,,
+Industry, Satelligence, Utrecht,,
+Industry, OpenCage Data Ltd., London,,
 
 
 Interesting Websites:
