@@ -8,7 +8,7 @@
         "id": 1,
         "name": "Triply GmbH",
         "businessDescription": "TTriply develops high-quality software solutions that help decision-makers understand existing mobility situations and provide meaningful, safe and sustainable mobility.",
-        "businessActivity": ["software development", "data analysis", "data science","data engineering"],
+        "businessActivity": ["software development", "data analysis/data science","data engineering"],
         "fieldOfGi": ["GIS", "Geovisualization", "Spatial Analysis", "Navigation"], 
         "fieldOfInterest": ["mobility", "sustainability"],
         "giBusinessActivity": ["mainly"],
@@ -41,7 +41,7 @@
       "properties": {
         "name": "Triply GmbH",
         "businessDescription": "Triply ....",
-        "businessActivity": ["software development", "data analysis", "data science","data engineering", "data aquisition"],
+        "businessActivity": ["software development", "data analysis/data science","data engineering", "data aquisition"],
         "fieldOfGi": ["remote sensing/EO", "GIS", "Geovisualization", "GNSS", "AI (ML/DL)", "Statistic", "Spatial Analysis", "Navigation", "3D", "Simulation"], 
         "fieldOfInterest": ["mobility", "sustainability", "energy", "agriculture"],
         "giBusinessActivity": ["mainly, partialy"],
